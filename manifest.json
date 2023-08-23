@@ -6,13 +6,13 @@
   "description": "A library of themes for various Amazon FC web tools",
 
   "icons": {
-    "48": "icons/FC-Logo"
+    "48": "icons/FC-Logo.png"
   },
 
   "permissions": ["activeTab"],
 
   "browser_action": {
-    "default_icon": "icons/FC-Logo",
+    "default_icon": "icons/FC-Logo.png",
     "default_title": "Change Theme",
     "default_popup": "popup/choose_theme.html"
   },
